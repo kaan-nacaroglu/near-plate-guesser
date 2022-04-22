@@ -1,0 +1,15 @@
+{
+  "name": "near-plate-guesser",
+  "version": "1.0.0",
+  "description": "Simple plate guessing game for Turkish plate numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "asp",
+    "build" : "asb"
+  },
+  "author": "kaan-nacaroglu",
+  "license": "MIT",
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  }
+}
