@@ -27,11 +27,11 @@ export function emptyVector() : PersistentVector<string>{
     return plates;
 } 
 
-/* export function printVector() : void { 
+export function printVector() : void { 
     assert(!plates.isEmpty, "Vector is Empty")  
     for (let i= 0; i < plates.length; ++i) logging.log(plates[i]);
     
-} */
+}
 
 export function randomPlateNumber() : string {
   
